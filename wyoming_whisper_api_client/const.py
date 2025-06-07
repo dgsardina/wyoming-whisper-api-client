@@ -97,5 +97,6 @@ WHISPER_LANGUAGES = [
     "vi",
     "yi",
     "yo",
+    "yue",
     "zh",
 ]
